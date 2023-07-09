@@ -18,9 +18,11 @@ __pycache__
 *-ubyte
 *.pt
 *.png
+*.jpg
 !docs/**/*.png
 imdb
 data
 .jekyll-cache
 _site
 .vscode
+
